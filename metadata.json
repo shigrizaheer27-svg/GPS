@@ -1,0 +1,6 @@
+{
+  "name": "Earth GPS",
+  "description": "GPS / Maps utility app with satellite map, current location, traffic map, voice route and travel tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
